@@ -1,3 +1,3 @@
 * Getting and Cleaning Data
 * Exploratory Data Analysis
-* Hornet
+* Git is easy. Git is fun. Thanks Linus!
